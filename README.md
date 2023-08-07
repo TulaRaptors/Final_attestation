@@ -86,6 +86,8 @@ mv "Animals" "Друзья человека"
 
 </details>
 
+![pictures for project](https://github.com/TulaRaptors/Final_attestation/blob/main/Source/1.png)
+
 2.
 
 <details>
@@ -101,6 +103,7 @@ ls
 
 </details>
 
+![pictures for project](https://github.com/TulaRaptors/Final_attestation/blob/main/Source/2.png)
 
 3.
 
@@ -116,6 +119,8 @@ sudo service mysql status
 
 </details>
 
+![pictures for project](https://github.com/TulaRaptors/Final_attestation/blob/main/Source/3.png)
+
 4.
 
 <details>
@@ -128,6 +133,8 @@ sudo dpkg -r sl
 ```
 
 </details>
+
+![pictures for project](https://github.com/TulaRaptors/Final_attestation/blob/main/Source/4.png)
 
 5.
 
@@ -163,14 +170,19 @@ sudo dpkg -r sl
 
 </details>
 
+![pictures for project](https://github.com/TulaRaptors/Final_attestation/blob/main/Source/5.png)
+
 6.
 
+![pictures for project](https://github.com/TulaRaptors/Final_attestation/blob/main/Source/6.png)
 
 7.
 
 ```sql
 CREATE DATABASE Друзья_человека;
 ```
+
+![pictures for project](https://github.com/TulaRaptors/Final_attestation/blob/main/Source/7.png)
 
 8.
 
@@ -257,6 +269,7 @@ show tables;
 
 </details>
 
+![pictures for project](https://github.com/TulaRaptors/Final_attestation/blob/main/Source/8.png)
 
 9.
 
@@ -357,4 +370,5 @@ SELECT 'Ослы' AS тип_животного, имя, команда, дата
 
 </details>
 
-13. , 14. , 15. - [Перейти к коду Java]
+13. , 14. , 15. - [-= Перейти к коду Java =-](https://github.com/TulaRaptors/Final_attestation/tree/main/Java)
+
