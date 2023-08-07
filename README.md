@@ -370,5 +370,5 @@ SELECT 'Ослы' AS тип_животного, имя, команда, дата
 
 </details>
 
-13. , 14. , 15. - [-= Перейти к коду Java =-](https://github.com/TulaRaptors/Final_attestation/tree/main/Java)
+13. , 14. , 15. - [Перейти к коду Java](https://github.com/TulaRaptors/Final_attestation/tree/main/Java)
 
